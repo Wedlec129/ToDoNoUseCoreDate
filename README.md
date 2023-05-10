@@ -7,6 +7,16 @@
 без coredate
 
 <p align="center">
+      <img src="https://github.com/Wedlec129/ToDoNoUseCoreDate/blob/main/1.png" width="726">
+</p>
+<p align="center">
+      <img src="https://github.com/Wedlec129/ToDoNoUseCoreDate/blob/main/2.png" width="726">
+</p>
+<p align="center">
+      <img src="https://github.com/Wedlec129/ToDoNoUseCoreDate/blob/main/3.png" width="726">
+</p>
+
+<p align="center">
 
 
 
